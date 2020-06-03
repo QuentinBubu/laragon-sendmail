@@ -1,0 +1,26 @@
+1) Se rendre sur https://myaccount.google.com/intro
+2) Se connecter
+3) Allez sur "Sécurité"
+4) Allez sur "Validation en deux étapes"
+5) Faire "démarré"
+6) Saisir son mot de passe
+7) Clquez sur "Essayer maintenant
+8) Sur votre téléphone, cliquez sur "OUI"
+9) Ou vous utilisez votre numéro de téléphone ou vous cliquez sur "Utiliser une autre option de secours"
+	(On va utiliser cette dernière)
+10) Téléchargez vos codes
+11) Faites "suivant"
+12) Faites "Activer"
+13) Maintenant, faites retour
+14) Cliquez sur "Mots de passe des applications"
+15) Saisissez de nouveau votre mot de passe et validez
+16) Dans séléctionnez une application, cliquez sur "Autre (Nom personnalisé)"
+17) Saisissez Laragon et faites Générez
+18) Félicitation, votre code est celui surligner!
+19) Copiez le et rendez-vous sur Laragon
+20) Dans Paramètre, émétteur d'Email saisissez le mot de passe copier et testez
+21) Vous devriez recevoir un mail! Félicitation! Si ce n'est pas le cas, reprennez ces étapes
+22) Amusez vous bien et codez bien!
+
+
+https://github.com/Quentin23/Laragon_sendmail
