@@ -23,4 +23,4 @@
 22) Amusez vous bien et codez bien!
 
 
-https://github.com/Quentin23/Laragon_sendmail
+https://github.com/QuentinBubu/Laragon_sendmail
